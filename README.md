@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">BACK-END / FRONT-END DEVELOPER</h3>
 
-Tel: 0817643335   |   tamle23122004@gmail.com
+Tel: 0817643335   |   tamle23122004@gmail.com | www.linkedin.com/in/tamle2312
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tamlm.2312) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michael231204) 
