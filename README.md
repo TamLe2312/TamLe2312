@@ -27,4 +27,3 @@ FPT POLYTECHNIC TAY NGUYEN
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamle2312&show_icons=true&locale=en" alt="tamle2312" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamle2312&" alt="tamle2312" /></p>
