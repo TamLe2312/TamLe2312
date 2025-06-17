@@ -11,7 +11,11 @@ Tel: 0817643335   |   tamle23122004@gmail.com | www.linkedin.com/in/tamle2312
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tamle2312)
 
 ## ABOUT ME
-I am a passionate technology enthusiast who constantly keeps up with new technologies and knowledge. With years of studying, exploring, and developing websites. I have accumulated a diverse skill set ranging from JavaScript, HTML and CSS to framework and library like React.js. Additionally, I have knowledge of Node.js, TypeScript, NoSQL and SQL. I always aspire to create practical applications and products that meet user needs
+I am a passionate technology enthusiast who constantly keeps up with new technologies and knowledge. Through years of studying, exploring, and developing websites, I have accumulated a diverse skill set ranging from JavaScript, HTML, and CSS to frameworks and libraries like React.js.
+
+Additionally, I have hands-on knowledge of Node.js, TypeScript, SQL, and NoSQL databases. I'm also familiar with server-side technologies and environments such as Linux, Nginx, and Apache, which helps me understand the deployment and operation aspects of web applications.
+
+I always aspire to create practical, efficient, and user-focused applications, and I'm eager to keep learning and growing as a developer.
 
 ## EDUCATION
 FPT POLYTECHNIC TAY NGUYEN 2022 - 2024
